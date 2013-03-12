@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Remind By Email</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_remind_by_email">Send Reminder By Email</string>
+
+</resources>
