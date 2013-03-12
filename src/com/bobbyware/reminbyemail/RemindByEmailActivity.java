@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class RemindByEmailActivity extends Activityx {
+public class RemindByEmailActivity extends Activity {
 
     Button buttonSend;
     EditText textTo;
